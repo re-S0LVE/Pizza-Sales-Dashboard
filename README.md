@@ -1,6 +1,6 @@
 # Pizza Sales Dashboard
 
-An end-to-end data analytics project built with SQL Server and Power BI, analyzing 48,000+ fictional pizza order records across 2015 to surface revenue trends, product performance, and peak ordering patterns.
+An end-to-end data analytics project built with SQL Server and Power BI, analyzing ~48,000+ fictional pizza order records across 2015 to surface revenue trends, product performance, and peak ordering patterns.
 
 ---
 
